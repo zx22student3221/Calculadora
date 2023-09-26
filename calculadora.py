@@ -15,6 +15,7 @@ def calculadora():
     print("Calculadora")
     print("1. Suma")
     print("2. Resta")
+    print("3. Multiplicar")
 
 
     # Solicitar al usuario que seleccione una operación
