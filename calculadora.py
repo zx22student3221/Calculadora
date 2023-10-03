@@ -1,6 +1,7 @@
 # Función para realizar la suma
 def suma(a, b):
-    return a + b
+    res = a + b
+    return res 
 
 # Función para realizar la resta
 def resta(a, b):
